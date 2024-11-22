@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705036748425",
+    "project_id": "controleenergia-74fbc",
+    "storage_bucket": "controleenergia-74fbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705036748425:android:b2898ce3250608e3b06858",
+        "android_client_info": {
+          "package_name": "com.example.nexus_sire_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHuXF0LlJDuhI5K3_yb-YyRcdpUR0HFMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
